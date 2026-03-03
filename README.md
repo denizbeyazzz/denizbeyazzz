@@ -15,8 +15,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="30" alt="azure logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/canva/00C4CC" height="30" alt="canva logo"  />
-  <img width="12" />
   <img src="https://cdn.simpleicons.org/postgresql/4169E1" height="30" alt="postgresql logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/mongodb/47A248" height="30" alt="mongodb logo"  />
